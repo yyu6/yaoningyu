@@ -7,12 +7,12 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Gallery"
-    url: /gallery/
   
   - title: "CV"
     url: /files/YaoningYu_Resume.pdf
+  
+  - title: "Personal life"
+    url: /life/
   # - title: "Talks"
   #   url: /talks/    
 
