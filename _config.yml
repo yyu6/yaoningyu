@@ -13,7 +13,7 @@ title                    : "Yaoning(Kevin) Yu"
 title_separator          : "-"
 name                     : &name "Yaoning Yu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://yyu6.github.io/yaoningyu/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yaoning Yu"
   pronouns         : # example: "she/her"  
   bio              : "Graduated from Uchicago with strong passion in LLM and AI"
-  location         : "Currently in Chicago"
+  location         : "Chicago, IL"
   Student          : "University of Chicago"
   uri              : # URL
   email            : "yyn030600@outlook.com" 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/yyu6"
+  github           : "yyu6"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
