@@ -13,6 +13,7 @@ Hi, I am a Master’s student in Applied Data Science at the University of Chica
 ### Projects
 
 - [TradingHero: Empowering Traders with AI Stock Analysis](https://github.com/yyu6/TradingHero) - An advanced stock market analysis tool designed to streamline trading processes, reduce information overload, and enhance decision-making for semi-professional retail traders.
+- [Awesome-LLM-Data_Scientists](https://github.com/WhileBug/Awesome-LLM-Data_Scientist) - Papers related to the Large Language Model(LLM)-based data scientists agents (including code agents which are highly related to data science). 
 - UnderwriteAI - An LLM-agent-powered software that automates file classification and recognition in the underwriting process.
 - NYC Taxi demand prediction - A machine learning model that estimates taxi demand and travel time across different locations and time zones in NYC.
 
