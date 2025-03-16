@@ -9,7 +9,6 @@ author_profile: true
 Kai Wei, **Yaoning Yu**, Ye Yu, Haohan Wang, Haojing Luo \
 *Under Review at CVPR, 2024.* \
 [paper link will be available soon!]
-<hr>
 
 <hr>
 More interesting papers coming soon—welcome to collaborate!🙂
