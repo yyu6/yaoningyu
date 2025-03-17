@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Master’s student in Applied Data Science at the University of Chicago (UChicago). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW). During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean velocity. Currently, I am a researcher under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/) at University of Illinois Urbana-Champaign, focusing on LLM-agent research and its applications.  
+Hi, I am a Master student in Applied Data Science at the University of Chicago (UChicago). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW). During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean velocity. Currently, I am a researcher under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/) at University of Illinois Urbana-Champaign, focusing on LLM-agent research and its applications.  
 
 ### Projects
 
-- [TradingHero: Empowering Traders with AI Stock Analysis](https://github.com/yyu6/TradingHero) - An advanced stock market analysis tool designed to streamline trading processes, reduce information overload, and enhance decision-making for semi-professional retail traders.([Honorable Mentions](https://datascience.uchicago.edu/news/masters-in-applied-data-science-autumn-2024-capstone-showcase/))
+- [TradingHero: Empowering Traders with AI Stock Analysis](https://github.com/yyu6/TradingHero) - An advanced stock market analysis tool designed to streamline trading processes, reduce information overload, and enhance decision-making for semi-professional retail traders ([Honorable Mentions](https://datascience.uchicago.edu/news/masters-in-applied-data-science-autumn-2024-capstone-showcase/)).
 - [Awesome-LLM-Data_Scientists](https://github.com/WhileBug/Awesome-LLM-Data_Scientist) - Papers related to the Large Language Model(LLM)-based data scientists agents (including code agents which are highly related to data science). 
 - UnderwriteAI - An LLM-agent-powered software that automates file classification and recognition in the underwriting process.
 - NYC Taxi demand prediction - A machine learning model that estimates taxi demand and travel time across different locations and time zones in NYC.
