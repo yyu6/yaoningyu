@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /files/YaoningYu_Resume.pdf
   
-  # - title: "More Me"
-  #   url: /portfolio/
+  - title: "More Me"
+    url: /portfolio/
   # - title: "Talks"
   #   url: /talks/    
 
