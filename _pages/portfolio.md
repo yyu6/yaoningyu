@@ -16,24 +16,26 @@ My full name is Yaoning Yu, and my Chinese name is 于曜宁. I’m a passionate
 ### 🏔️ Hiking on Rinjani  
 One of my most memorable experiences was a 3-day, 2-night hike on Mount Rinjani, 3726 meters (12,224 feet), the 2nd highest active volcano in Indonesia.
 
-![Rinjani at Indonesia](/images/rinjani_hiking.png)  
+<img src="https://raw.githubusercontent.com/yyu6/yaoningyu/master/images/rinjani_hiking.png" alt="Rinjani at Indonesia" width="300" height="350" style="object-fit: cover; border-radius: 10px; display: block; margin: auto;" />
 
 ### 🪂 Skydiving Experience  
-Another exhilarating moment was my first skydive
+Another exhilarating moment was my first skydive.
 
-![Skydive](/images/skydiving.png)  
+<img src="https://raw.githubusercontent.com/yyu6/yaoningyu/master/images/skydiving.png" alt="Skydive" width="500" height="300" style="object-fit: cover; border-radius: 10px; display: block; margin: auto;" />
 
 ---
 
-## 🏞 More Beautiful Nature Scenes
+## 🏞 More Beautiful Nature Scenes  
 
-![Bromo at Indonesia](/images/bromo.jpg)  
-![Dessert](/images/dessert.jpg) 
-![Ijen](/images/ijen.jpg) 
-![Mt. Rainier](/images/mt_rainier.jpg) 
-![Sunrise](/images/sunrise.jpg) 
-![Sunset](/images/sunset_at_michigan_lake.jpg) 
-![Yellowstone](/images/yellowstone.jpg) 
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/yyu6/yaoningyu/master/images/bromo.jpg" alt="Bromo at Indonesia" width="300" height="300" style="object-fit: cover; border-radius: 10px;" />
+    <img src="https://raw.githubusercontent.com/yyu6/yaoningyu/master/images/dessert.jpg" alt="Dessert" width="300" height="300" style="object-fit: cover; border-radius: 10px;" />
+    <img src="https://raw.githubusercontent.com/yyu6/yaoningyu/master/images/ijen.jpg" alt="Ijen" width="300" height="300" style="object-fit: cover; border-radius: 10px;" />
+    <img src="https://raw.githubusercontent.com/yyu6/yaoningyu/master/images/mt_rainier.jpg" alt="Mt. Rainier" width="300" height="300" style="object-fit: cover; border-radius: 10px;" />
+    <img src="https://raw.githubusercontent.com/yyu6/yaoningyu/master/images/sunrise.jpg" alt="Sunrise" width="300" height="300" style="object-fit: cover; border-radius: 10px;" />
+    <img src="https://raw.githubusercontent.com/yyu6/yaoningyu/master/images/sunset_at_michigan_lake.jpg" alt="Sunset at Michigan Lake" width="300" height="300" style="object-fit: cover; border-radius: 10px;" />
+    <img src="https://raw.githubusercontent.com/yyu6/yaoningyu/master/images/yellowstone.jpg" alt="Yellowstone" width="300" height="300" style="object-fit: cover; border-radius: 10px;" />
+</div>
 
 ---
 
