@@ -16,24 +16,24 @@ My full name is Yaoning Yu, and my Chinese name is 于曜宁. I’m a passionate
 ### 🏔️ Hiking on Rinjani  
 One of my most memorable experiences was a 3-day, 2-night hike on Mount Rinjani, 3726 meters (12,224 feet), the 2nd highest active volcano in Indonesia.
 
-<img src="/images/rinjani_hiking.png" alt="" />  
+![Rinjani at Indonesia](/images/rinjani_hiking.png)  
 
 ### 🪂 Skydiving Experience  
 Another exhilarating moment was my first skydive
 
-<img src="/images/skydiving.png" alt="" />  
+![Skydive](/images/skydiving.png)  
 
 ---
 
 ## 🏞 More Beautiful Nature Scenes
 
-<img src="/images/bromo.jpg" alt="" width="300" height="300"/>  
-<img src="/images/ijen.jpg" alt="" width="300" height="300"/>  
-<img src="/images/dessert.jpg" alt="" width="300" height="300"/>  
-<img src="/images/mt_rainier.jpg" alt="" width="300" height="300"/>  
-<img src="/images/sunrise.jpg" alt="" width="300" height="300"/>  
-<img src="/images/sunset_at_michigan_lake.jpg" alt="" width="300" height="300"/>  
-<img src="/images/yellowstone.jpg" alt="" width="300" height="300"/>  
+![Bromo at Indonesia](/images/bromo.jpg)  
+![Dessert](/images/dessert.jpg) 
+![Ijen](/images/ijen.jpg) 
+![Mt. Rainier](/images/mt_rainier.jpg) 
+![Sunrise](/images/sunrise.jpg) 
+![Sunset](/images/sunset_at_michigan_lake.jpg) 
+![Yellowstone](/images/yellowstone.jpg) 
 
 ---
 
