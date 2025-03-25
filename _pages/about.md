@@ -19,4 +19,10 @@ Hi, I am a Master student in Applied Data Science at the University of Chicago (
 
 ### Research Interest
 
-**I am actively seeking industry and research opportunities in LLM-agent development and other exciting AI-driven fields.** Feel free to explore my projects and reach out if you're interested in collaborating! 🚀
+**I am actively seeking industry and research opportunities globally in LLM-agent development and other exciting AI-driven fields.** Feel free to explore my projects and reach out if you're interested in collaborating! 🚀
+
+<div align="center">
+<a href='https://clustrmaps.com/site/1c4xm'  title='Visit tracker'>
+<img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=80&t=n&d=-rCL4pWeuqDroSJAwddR5-mbvvUKi7xekmJnMMfZni4&co=2d78ad&ct=ffffff'/>
+</a>
+</div>
