@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Master student in Applied Data Science at the University of Chicago (UChicago). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW). During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean velocity. Currently, I am a researcher under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/) at University of Illinois Urbana-Champaign, focusing on LLM-agent research and its applications.  
+Hi, I am a Master student in Applied Data Science at the University of Chicago (UChicago). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW). During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean velocity. Currently, I am a research associate under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/) at University of Illinois Urbana-Champaign [Dream Lab](https://dreamlabuiuc.github.io/), focusing on LLM-agent research and its applications.  
 
 ### Projects
 
