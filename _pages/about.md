@@ -16,12 +16,14 @@ Hi, I am a Master student in Applied Data Science at the University of Chicago (
 - [Awesome-LLM-Data_Scientists](https://github.com/WhileBug/Awesome-LLM-Data_Scientist) - Papers related to the Large Language Model(LLM)-based data scientists agents (including code agents which are highly related to data science). 
 - CredAIble - An LLM-agent-powered software that automates file classification and recognition in the underwriting process(Private github repo due to confidentiality).
 - Robustifying LVLMs Against Jailbreak Attacks – Design inverse perturbation strategies based on CLIP embeddings and attention map analysis to defend large vision-language models (LVLMs) against jailbreak attempts and improve alignment robustness.
-- Prompt Efficiency via Token Trimming and GCG Optimization – Develop methods combining token trimming and Greedy Coordinate Gradient (GCG) prompt optimization to reduce input token overhead while preserving or improving output accuracy.
+- Prompt efficiency via token trimming and prompt optimization - Design a universal prompt that can optimize token usage across all tasks while maintaining high performance.
 - NYC Taxi demand prediction - A machine learning model that estimates taxi demand and travel time across different locations and time zones in NYC.
 
 ### Research Interest
 
-**I am actively seeking industry and research opportunities globally in LLM-agent development and other exciting AI-driven fields.** Feel free to explore my projects and reach out if you're interested in collaborating! 🚀
+My research interests lie in Machine Learning, LLM-based Multi-Agent Systems (MAS), Multimodal Large Language Models, and AI Security.
+
+**I am actively seeking industry and research opportunities in LLM-agent development and other exciting AI-driven fields.** Feel free to explore my projects and reach out if you're interested in collaborating! 🚀
 
 <div align="center">
 <a href='https://clustrmaps.com/site/1c4xm'  title='Visit tracker'>
