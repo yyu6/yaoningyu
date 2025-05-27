@@ -7,7 +7,7 @@ author_profile: true
 
 [**SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback**](https://arxiv.org/abs/2505.19514)\
 **Yaoning Yu**, Ye Yu, Kai Wei, Haohan Wang, Haojing Luo \
-*Under Review at EMNLP, 2025.* \
+*Under Review at EMNLP, 2025.* 
 
 
 **[2] Large Language Model-based Data Science Agent: A Survey** \
