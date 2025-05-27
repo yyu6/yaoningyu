@@ -5,19 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-**[1] SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback** \
+**[1] SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback** [PDF](https://arxiv.org/abs/2505.19514)\
 **Yaoning Yu**, Ye Yu, Kai Wei, Haohan Wang, Haojing Luo \
 *Under Review at NeurIPS, 2025.* \
-[paper link will be available soon!]
+
 
 **[2] Large Language Model-based Data Science Agent: A Survey** \
 Peirang Wang, **Yaoning Yu**, Chen Ke, Xianyang Zhan, Haohan Wang \
 *Under Review at COLM, 2025.* \
-[paper link will be available soon!]
-
-**[2] PREMISE: Scalable and Strategic Prompt Optimization for Efficient Mathematical Reasoning in Large Models** \
-Ye Yu, **Yaoning Yu**, Haohan Wang \
-*Under Review at EMNLP, 2025.* \
 [paper link will be available soon!]
 
 <hr>
