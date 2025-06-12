@@ -17,7 +17,7 @@ Hi, I am a Master student in Applied Data Science at the University of Chicago (
 
 ### Research Interest
 
-My research interests lie in Machine Learning, LLM-based Multi-Agent Systems (MAS), Multimodal Large Language Models, and AI Security. Additionally, I’m eager to explore other emerging fields(or any related areas) and apply these advances, especially in embodied AI, to solve real-world problems and deliver tangible value to communities.
+My research interests lie in Machine Learning, LLM-based Multi-Agent Systems (MAS), Multimodal Large Language Models, and AI Security. Additionally, I’m eager to explore other emerging fields(or any related areas) and apply these advances, especially in embodied AI, to solve real-world problems and deliver tangible and meaningful value to communities.
 
 
 **I am actively seeking available PhD positions as well as research opportunities.** Feel free to explore my projects and reach out if you're interested in collaborating or even about any research ideas! 🚀
