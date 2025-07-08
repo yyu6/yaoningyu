@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Master student in Applied Data Science at the University of Chicago (UChicago). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW). During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean activities. Currently, I am a research associate under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/) at University of Illinois Urbana-Champaign [Dream Lab](https://dreamlabuiuc.github.io/).
+Hi, I am a Master student in Applied Data Science at the University of Chicago (UChicago). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW). During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean activities. Currently, I am a research associate under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/) at UIUC (University of Illinois Urbana-Champaign) [Dream Lab](https://dreamlabuiuc.github.io/) and  in [UCLA Security Lab](https://ucla-sec-lab.netlify.app/) under [Dr. Yuan Tian](https://www.ytian.info/).
 ### Projects
 
 - [TradingHero: Empowering Traders with AI Stock Analysis](https://github.com/yyu6/TradingHero) - An advanced stock market analysis tool designed to streamline trading processes, reduce information overload, and enhance decision-making for semi-professional retail traders ([Honorable Mentions](https://datascience.uchicago.edu/news/masters-in-applied-data-science-autumn-2024-capstone-showcase/)).
