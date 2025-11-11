@@ -14,7 +14,7 @@ Peirang Wang<sup>+</sup>, **Yaoning Yu<sup>+</sup>**, Chen Ke<sup>+</sup>, Xi
 (<sup>+</sup>Equal contribution) \
 *Under Review for TMLR*  
 
-* [**Synthetic Data-Driven Prompt Tuning for Financial QA over Tables and Documents**] \
+* [**Synthetic Data-Driven Prompt Tuning for Financial QA over Tables and Documents**](https://arxiv.org/pdf/2511.06292) \
 **Yaoning Yu**, Kai-Min Chang, Ye Yu, Kai Wei, Haojing Luo, Haohan Wang \
 *AI4F Workshop, ACM ICAIF 2025*
 
