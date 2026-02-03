@@ -7,8 +7,8 @@ author_profile: true
 
 ## 2026
 - **AgenticNet: Rethinking Multi-agent System Architectures with LLM-based Networks** — *Under review for TMLR*
-- [**SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback**](https://arxiv.org/pdf/2505.19514) — **Yaoning Yu**, Ye Yu, Kai Wei, Haojing Luo, Haohan Wang — *ICLR 2026*
-- [**Large Language Model-based Data Science Agent: A Survey**](https://arxiv.org/pdf/2508.02744) — Peirang Wang<sup>+</sup>, **Yaoning Yu<sup>+</sup>**, Chen Ke<sup>+</sup>, Xianyang Zhan, Haohan Wang (<sup>+</sup>Equal contribution) — *TMLR 2026*
+- [**SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback**](https://arxiv.org/pdf/2505.19514) — **Yaoning Yu**, Ye Yu, Peiyan Zhang, Kai Wei, Haojing Luo, Haohan Wang — *ICLR 2026*
+- [**Large Language Model-based Data Science Agent: A Survey**](https://arxiv.org/pdf/2508.02744) — Chen Ke<sup>+</sup>, Peirang Wang<sup>+</sup>, **Yaoning Yu<sup>+</sup>**, Xianyang Zhan, Haohan Wang (<sup>+</sup>Equal contribution) — *TMLR 2026*
 - [**Now You Hear Me: Audio Narrative Attacks Against Large Audio–Language Models**](https://arxiv.org/abs/2601.23255) — Ye Yu, Haibo Jin, **Yaoning Yu**, Jun Zhuang, Haohan Wang — *EACL 2026*
 
 ## 2025
