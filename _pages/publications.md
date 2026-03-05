@@ -11,7 +11,7 @@ author_profile: true
 *Under review for Transactions on Machine Learning Research (TMLR)*
 
 [**SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback**](https://arxiv.org/pdf/2505.19514)<br>
-**Yaoning Yu**, Ye Yu, Peiyan Zhang, Kai Wei, Haojing Luo, Haohan Wang<br>
+**Yaoning Yu<sup>+</sup>**, Ye Yu<sup>+</sup>, Peiyan Zhang, Kai Wei, Haojing Luo, Haohan Wang (<sup>+</sup>Equal contribution)<br>
 *International Conference on Learning Representation (ICLR) 2026*
   
 [**Large Language Model-based Data Science Agent: A Survey**](https://arxiv.org/pdf/2508.02744)<br>
