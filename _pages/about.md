@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Master student in Applied Data Science at the University of Chicago (UChicago). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW). During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean activities. Currently, I am a research associate under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/) at UIUC (University of Illinois Urbana-Champaign) [Dream Lab](https://dreamlabuiuc.github.io/) and  in [UCLA Security Lab](https://ucla-sec-lab.netlify.app/) under [Dr. Yuan Tian](https://www.ytian.info/).
+I'm Yaoning Yu, a Data Scientist & AI Engineer at Ekohe while doing research under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/) at UIUC (University of Illinois Urbana-Champaign) [Dream Lab](https://dreamlabuiuc.github.io/). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW). During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean activities. I also worked with [Dr. Yuan Tian](https://www.ytian.info/)￼ at the [UCLA Security Lab](https://ucla-sec-lab.netlify.app/)￼ on LLM security.
+
 ### Projects
 
 - [TradingHero: Empowering Traders with AI Stock Analysis](https://github.com/yyu6/TradingHero) - An advanced stock market analysis tool designed to streamline trading processes, reduce information overload, and enhance decision-making for semi-professional retail traders ([Honorable Mentions](https://datascience.uchicago.edu/news/masters-in-applied-data-science-autumn-2024-capstone-showcase/)).
@@ -20,7 +21,7 @@ Hi, I am a Master student in Applied Data Science at the University of Chicago (
 My research interests lie in Machine Learning, LLM-based Multi-Agent Systems (MAS), Multimodal Large Language Models, and AI Security. Additionally, I’m eager to explore other emerging fields(or any related areas) and apply these advances, especially in embodied AI, to solve real-world problems and deliver tangible and meaningful value to communities.
 
 
-**I am actively seeking research opportunities.** Feel free to explore my projects and reach out if you're interested in collaborating or even about any research ideas! 🚀
+**I am actively seeking research opportunities.** Feel free to explore my projects and papers and reach out if you're interested in collaborating or even about any research ideas! 🚀
 
 #### About Me
 
