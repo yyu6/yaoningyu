@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yaoning(Kevin) Yu"
 title_separator          : "-"
 name                     : &name "Yaoning Yu"
-description              : &description "personal description"
+description              : &description "Personal website of Yaoning Yu, an AI engineer and researcher focused on LLM agents, multimodal models, and AI security."
 url                      : "https://yyu6.github.io"
 baseurl                  : "/yaoningyu"
 repository               : "yyu6/yaoningyu"
@@ -140,9 +140,13 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Yaoning Yu"
+  links:
+    - "https://github.com/yyu6"
+    - "https://www.linkedin.com/in/yaoning-yu"
+    - "https://scholar.google.com/citations?user=K4_S_kIAAAAJ"
+    - "https://openreview.net/profile?id=~Yaoning_Yu1"
 
 
 # Analytics

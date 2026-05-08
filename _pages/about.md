@@ -2,7 +2,8 @@
 permalink: /
 title: "Yaoning Yu's Personal Page"
 author_profile: true
-excerpt: "Homepage"
+excerpt: "Personal website of Yaoning Yu, an AI engineer and researcher focused on LLM agents, multimodal models, and AI security."
+description: "Yaoning Yu is an AI engineer and researcher working on LLM agents, multimodal models, AI security, and applied machine learning."
 redirect_from: 
   - /about/
   - /about.html
