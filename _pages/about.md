@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yaoning Yu, a Data Scientist & AI Engineer at Ekohe while conducting research with of [Dr. Haohan Wang](https://haohanwang.github.io/) at UIUC (University of Illinois Urbana-Champaign) [Dream Lab](https://dreamlabuiuc.github.io/). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW) and Masters from Uchicago. During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean activities. I also worked with [Dr. Yuan Tian](https://www.ytian.info/)￼ at the [UCLA Security Lab](https://ucla-sec-lab.netlify.app/)￼ on LLM security.
+I'm Yaoning Yu, a Data Scientist & AI Engineer at Ekohe while conducting research with [Dr. Haohan Wang](https://haohanwang.github.io/) at UIUC (University of Illinois Urbana-Champaign) [Dream Lab](https://dreamlabuiuc.github.io/). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW) and Masters from Uchicago. During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean activities. I also worked with [Dr. Yuan Tian](https://www.ytian.info/)￼ at the [UCLA Security Lab](https://ucla-sec-lab.netlify.app/)￼ on LLM security.
 
 ### Projects
 
