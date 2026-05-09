@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yaoning Yu, a Data Scientist & AI Engineer at Ekohe while doing research under the supervision of [Dr. Haohan Wang](https://haohanwang.github.io/) at UIUC (University of Illinois Urbana-Champaign) [Dream Lab](https://dreamlabuiuc.github.io/). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW). During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean activities. I also worked with [Dr. Yuan Tian](https://www.ytian.info/)￼ at the [UCLA Security Lab](https://ucla-sec-lab.netlify.app/)￼ on LLM security.
+I'm Yaoning Yu, a Data Scientist & AI Engineer at Ekohe while conducting research with of [Dr. Haohan Wang](https://haohanwang.github.io/) at UIUC (University of Illinois Urbana-Champaign) [Dream Lab](https://dreamlabuiuc.github.io/). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW) and Masters from Uchicago. During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean activities. I also worked with [Dr. Yuan Tian](https://www.ytian.info/)￼ at the [UCLA Security Lab](https://ucla-sec-lab.netlify.app/)￼ on LLM security.
 
 ### Projects
 
@@ -28,8 +28,8 @@ My research interests lie in Machine Learning, LLM-based Multi-Agent Systems (MA
 
 In my spare time, I enjoy reading, exploring the arts and music, and immersing myself in nature. I'm also passionate about various sports and always eager to try new activities. My Chinese name is 于曜宁.
 
-<div align="center">
+<!-- <div align="center">
 <a href='https://clustrmaps.com/site/1c4xm'  title='Visit tracker'>
 <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=80&t=n&d=-rCL4pWeuqDroSJAwddR5-mbvvUKi7xekmJnMMfZni4&co=2d78ad&ct=ffffff'/>
 </a>
-</div>
+</div> -->
