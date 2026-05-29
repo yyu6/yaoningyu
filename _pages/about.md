@@ -11,11 +11,10 @@ redirect_from:
 
 I'm Yaoning Yu, a Data Scientist & AI Engineer at Ekohe while conducting research with [Dr. Haohan Wang](https://haohanwang.github.io/) at UIUC (University of Illinois Urbana-Champaign) [Dream Lab](https://dreamlabuiuc.github.io/). Previously, I earned my Bachelor’s degree in Mathematics from the University of Washington (UW) and Masters from Uchicago. During my time at UW, I worked with [George Manucharyan](https://deep.ocean.washington.edu/) in topics of Ocean Dynamics, mainly responsible for utilizing ML strategies to solve unknown deep ocean activities. I also worked with [Dr. Yuan Tian](https://www.ytian.info/)￼ at the [UCLA Security Lab](https://ucla-sec-lab.netlify.app/)￼ on LLM security.
 
-### Projects
+### Current Projects
 
-- [TradingHero: Empowering Traders with AI Stock Analysis](https://github.com/yyu6/TradingHero) - An advanced stock market analysis tool designed to streamline trading processes, reduce information overload, and enhance decision-making for semi-professional retail traders ([Honorable Mentions](https://datascience.uchicago.edu/news/masters-in-applied-data-science-autumn-2024-capstone-showcase/)).
-- CredAIble - An LLM-agent-powered software that automates file classification and recognition in the underwriting process(Private github repo due to clients' confidentiality).
-- Robustifying LVLMs Against Jailbreak via prompt injection attack – Design inverse perturbation strategies based on CLIP embeddings and attention map analysis to defend large vision-language models (LVLMs) against jailbreak attack via prompt injection and improve alignment robustness.
+* [Brainz](https://brainz.ekohe.xyz/): A knowledge graph and LLM-agent platform developed at Ekohe. Brainz connects multi-source project data such as GitHub, GitLab, Google Drive, and other collaboration tools, then builds a dynamic knowledge graph to help teams learn from past experience, retrieve relevant context, and reason across projects using LLMs. Contact me if you are interested in using it!
+* [MiroBench](https://yyu6.github.io/MiroBench/): A benchmark for evaluating the realism of LLM-based agentic simulations of real-world online discussions. MiroBench focuses on measuring how closely simulated discussions match real human discussions across linguistic, semantic, emotional, structural, and behavioral dimensions, with applications in social simulation.
 
 ### Research Interest
 
