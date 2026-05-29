@@ -13,7 +13,7 @@ I'm Yaoning Yu, a Data Scientist & AI Engineer at Ekohe while conducting researc
 
 ### Current Projects
 
-* [Brainz](https://brainz.ekohe.xyz/): A knowledge graph and LLM-agent platform developed at Ekohe. Brainz connects multi-source project data such as GitHub, GitLab, Google Drive, and other collaboration tools, then builds a dynamic knowledge graph to help teams learn from past experience, retrieve relevant context, and reason across projects using LLMs. Contact me if you are interested in using it!
+* [Brainz](https://brainz.ekohe.xyz/): A knowledge graph and LLM-agent platform developed at Ekohe. Brainz connects multi-source project data such as GitHub, GitLab, Google Drive, and other collaboration tools, then builds a dynamic knowledge graph to help teams learn from past experience, retrieve relevant context, and reason across projects using LLMs. Contact me for a demo request or interested in using it!
 * [MiroBench](https://yyu6.github.io/MiroBench/): A benchmark for evaluating the realism of LLM-based agentic simulations of real-world online discussions. MiroBench focuses on measuring how closely simulated discussions match real human discussions across linguistic, semantic, emotional, structural, and behavioral dimensions, with applications in social simulation.
 
 ### Research Interest
